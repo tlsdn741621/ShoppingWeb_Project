@@ -1,10 +1,5 @@
 package com.busanit501.shoppingweb_project.service;
 
-import com.busanit501.shoppingweb_project.domain.CartItem;
-import com.busanit501.shoppingweb_project.domain.Product;
-import com.busanit501.shoppingweb_project.repository.CartItemRepository;
-import com.busanit501.shoppingweb_project.repository.OrderRepository;
-import com.busanit501.shoppingweb_project.repository.ProductRepository;
 import lombok.extern.log4j.Log4j2;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
